@@ -7,27 +7,14 @@ author: Tomasz Fruboes
 Overview
 --------
 
-Efficiency test of Flask-Bower
+Working example on using bower and Flask-Bower in your flask project.
 
 Installation / Usage
 --------------------
-
-To install use pip:
-
-    $ pip install testflaskbower
-
-
-Or clone the repo:
-
+    $ virtualenv venv # works with python 2.7 and 3.6 
+    $ source venv/bin/activate
     $ git clone https://github.com/fruboes/testflaskbower.git
-    $ python setup.py install
+    $ pip install -e testflaskbower
+    $ cd testflaskbower
+    $ ./run.py
     
-Contributing
-------------
-
-TBD
-
-Example
--------
-
-TBD

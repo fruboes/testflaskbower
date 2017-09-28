@@ -1,13 +1,8 @@
 flask + bower test
 ===============================
 
-version number: 0.0.1
-author: Tomasz Fruboes
-
-Overview
---------
-
-Working example on using bower and Flask-Bower in your flask project.
+Working example on using bower and Flask-Bower in your flask project. 
+You may want to visit the corresponding [Flask-Bower tutorial](http://pragmaticpython.com/2017/09/28/flask-and-bower-download-jquery-others-automatically/).
 
 Installation / Usage
 --------------------
